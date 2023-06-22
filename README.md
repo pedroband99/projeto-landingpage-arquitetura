@@ -5,5 +5,5 @@ DESAFIO 1 RESOLUÇÃO:
 
 Link do site: https://atividadelandingpagearquitetura.netlify.app/
 
-Link planilha sheetmonkey: https://dashboard.sheetmonkey.io/edit/3HwmUnb1sZQmakG4vzfp6a
+Link planilha sheetmonkey: https://docs.google.com/spreadsheets/d/1fZAyqRStwXmemzt2nkFVWjUsOuK-gTCNs0tl0DMB7O0/edit#gid=0
 
